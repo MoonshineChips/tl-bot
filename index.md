@@ -13,7 +13,7 @@ It runs only on the TL Pro Discord server (and a private test server) and in the
 - **Bug report and idea forms**, language buttons for rules and FAQ (EN · RU · PT · ES · ZH).
 - **Moderation helpers**: spam trap, staff-only cleanup, announcements mirrored to Telegram.
 
-[Privacy policy](privacy)
+[Privacy policy](privacy) · [Terms of Service](terms)
 
 ## Screenshots
 
